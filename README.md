@@ -136,8 +136,11 @@ A machine learning project focused on classifying music into different genres us
 
 <!-- Replace YOUR-PORTFOLIO-URL with your deployed website URL -->
 
-[Visit My Professional Portfolio](https://mohankrishna-ai.vercel.app)
-
+<p align="center">
+  <a href="https://mohankrishna-ai.vercel.app">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 ---
 
 ## 🤝 Let's Connect
