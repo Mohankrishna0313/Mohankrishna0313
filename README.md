@@ -141,7 +141,6 @@ A machine learning project focused on classifying music into different genres us
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
----
 
 ## 🤝 Let's Connect
 
