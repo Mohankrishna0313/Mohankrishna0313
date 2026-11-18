@@ -1,5 +1,5 @@
 
-<h1 align="center">राधे-राधे 🙏, I'm Mohan Krishna</h1>
+<h1 align="center">राधे-राधे , I'm Mohan Krishna</h1>
 
 <h3 align="center">
 AI/ML Research Trainee | Computer Science Graduate | Python Developer
